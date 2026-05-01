@@ -184,7 +184,7 @@ Conversion by acquisition channel: referral 9.3%, organic 7.5%, Instagram 5.4%. 
 
 ## Write-up
 
-Full methodology, decision framework, and findings documented on Medium:
+Full methodology, decision framework, and findings documented on Medium: https://medium.com/@prasanna1314
 
 - Part 1: How I Built Synthetic Data That Does Not Lie
 - Part 2: What Building Synthetic Data Taught Me About Real Data
