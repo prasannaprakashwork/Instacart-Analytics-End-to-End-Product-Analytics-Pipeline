@@ -1,6 +1,6 @@
 # Instacart Analytics — End-to-End Product Analytics Pipeline
 
-A production-grade product analytics project built from scratch. The dataset simulates a grocery delivery platform at the behavioral level — not random rows, but users with propensity scores, sessions with realistic funnel drop-off, and orders driven by the same behavioral engine that determines abandonment.
+A production-grade product analytics project built from scratch. The dataset simulates a grocery delivery platform at the behavioral level. not random rows, but users with propensity scores, sessions with realistic funnel drop-off, and orders driven by the same behavioral engine that determines abandonment.
 
 Built to support rigorous funnel analysis, cohort retention, RFM segmentation, and marketing attribution on data that behaves like a real production database.
 
